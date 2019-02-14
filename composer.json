@@ -1,0 +1,10 @@
+{
+    "name": "donat/nfq",
+    "type": "project",
+    "require": {},
+	"autoload":{
+		"files":[
+			"maincore.php"
+		]
+	}
+}
